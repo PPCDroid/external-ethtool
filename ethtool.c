@@ -27,10 +27,10 @@
 #  include "ethtool-config.h"
 #endif
 
-#include <sys/types.h>
+//#include <sys/types.h>
 #include <string.h>
 #include <stdlib.h>
-#include <sys/types.h>
+//#include <sys/types.h>
 #include <sys/ioctl.h>
 #include <sys/stat.h>
 #include <stdio.h>
